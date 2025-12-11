@@ -89,8 +89,3 @@ Career OPS Leaders:
 ...
 ```
 
----
-
-## 📌 GitHub Topics
-
-`Python` | `Data-Analysis` | `CSV` | `Baseball` | `Course-Project` | `Logs`
